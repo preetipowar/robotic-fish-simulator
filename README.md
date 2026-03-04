@@ -14,20 +14,6 @@ This project models fish swimming using simplified hydrodynamics and tail-beat p
 - 2D animation of fish locomotion
 - 3D visualization of rigid-body fish model
 
-## Project Structure
-robotic_fish_sim
-│
-├ config.py
-├ main.py
-│
-├ fish_model/
-├ physics/
-├ simulation/
-├ visualization/
-├ experiments/
-│
-└ results/
-
 ## Outputs
 
 The simulator generates:
